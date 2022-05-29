@@ -10,6 +10,9 @@
             linkedList.AppendNode(70);
             linkedList.Insert(30, 56);
             linkedList.Display();
+            linkedList.DeleteFirstNode();
+            linkedList.Display();
+
 
         }
     }

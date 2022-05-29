@@ -10,8 +10,6 @@
             linkedList.AddNode(56);
             linkedList.Display();
 
-
-
         }
     }
 }
